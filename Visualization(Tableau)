@@ -1,0 +1,22 @@
+
+*************Dashboard Features********************
+
+Pie Chart: Number of purchases per product theme
+
+Bar Chart: Total sales (USD) per product theme
+
+Interactivity: Hover tooltips display detailed purchase counts and sales
+
+********Key Findings**********
+
+Google-branded products dominated total sales, generating over $200,000.
+
+Android items showed strong purchase frequency but lower total revenue.
+
+Themes like YouTube and Supernatural contributed smaller but distinct segments of total sales.
+
+The “Other” category captured minor products under $1,000 in revenue.
+
+ View of live Tableau dashboard:
+
+https://public.tableau.com/views/GoogleMerchandiseProductPerformanceAnalysisbytheme/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
