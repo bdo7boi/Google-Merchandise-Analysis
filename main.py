@@ -1,3 +1,8 @@
+# This is the python script used to read the Google merchandise data, clean, normalize, and prepare it for 
+# analysis and visualization. In order to better identify the trends in the sales data, the merchandise
+# were grouped by theme by searching the product name for the theme/brand names. 
+#
+
 import pandas as pd
 
 # Read the datasets
@@ -51,3 +56,4 @@ theme_performance = pd.merge(theme_sales, theme_purchase_counts, on='Product The
 
 # Save the grouped data to a CSV for Tableau
 theme_performance.to_csv('product_theme_performance.csv', index=False)
+
