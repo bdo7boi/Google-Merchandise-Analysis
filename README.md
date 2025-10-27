@@ -36,3 +36,7 @@ Each file was read using **Pandas**, merged using common keys (`user_id`, `item_
 3. **Assigned Product Themes**  
    Used a Python function to classify products by brand name for better
    visualization of trends. 
+
+
+
+<img width="976" height="952" alt="image" src="https://github.com/user-attachments/assets/255dfc24-07d8-4039-a3cf-e2c7f6e9125a" />
